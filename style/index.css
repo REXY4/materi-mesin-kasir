@@ -1,0 +1,39 @@
+body {
+    background-color: #D8D9DA;
+    color: #272829;
+}
+
+.bg-dark {
+    background-color: #272829;
+}
+
+.title-navbar {
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.card-custom {
+    padding: 50px 80px 50px 80px;
+}
+
+#btn-submit {
+    width: 60%;
+    height: 40px;
+    margin-top: 30px;
+}
+
+.form-control {
+    width: 100%;
+    height: 40px;
+}
+
+#totalBelanja {
+    margin-left: 10px;
+}
